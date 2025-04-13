@@ -5,7 +5,7 @@ A highly motivated problem-solver with over 7 years of experience providing in-d
 
 ## Objective
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, aiming to be a Chief Information Security Officer.
 
 ## Skills
 
@@ -13,6 +13,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | Cybersecurity Home Lab|
 | Network Traffic Monitoring and Attack Detection | Cybersecurity Home Lab|
+| Active Directory Setup                        | Cybersecurity Home Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Project|
 | Incident Response Planning and Execution      | SOC Automation Project|
 | Case Management with TheHive                  | SOC Automation Project|
