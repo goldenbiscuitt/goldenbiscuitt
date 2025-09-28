@@ -3,6 +3,13 @@
 
 A highly motivated problem-solver with over 7 years of experience providing in-depth technical support for diverse hardware and software issues. Demonstrated expertise in troubleshooting, collaboration, and consistently delivering innovative and effective solutions. This background has honed my analytical skills and passion for technology, fueling my transition into Cybersecurity.
 
+## Roles
+
+- Broadcasting Intern (5 years)
+- IT Support Specialist (3 years)
+- Full Stack Developer
+- Assistant Project Manager (Current)
+
 ## Objective
 
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, aiming to be a Chief Information Security Officer.
@@ -18,6 +25,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Incident Response Planning and Execution      | SOC Automation Project|
 | Case Management with TheHive                  | SOC Automation Project|
 | Scripting and Automation for Threat Mitigation | SOC Automation Project|
+| Full Stack Development                        | Internal Map's Project | 
+| Project Management                            | Internal Map's Project | 
 
 ## Tools
 ### Network
