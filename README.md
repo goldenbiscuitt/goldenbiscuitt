@@ -8,7 +8,8 @@ A highly motivated problem-solver with over 7 years of experience providing in-d
 - Broadcasting Intern (5 years)
 - IT Support Specialist (3 years)
 - Full Stack Developer
-- Assistant Project Manager (Current)
+- Project Manager (2025)
+- Network and Systems Administrator (Current)
 
 ## Objective
 
