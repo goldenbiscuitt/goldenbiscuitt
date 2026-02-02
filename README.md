@@ -1,7 +1,9 @@
 # Hello, I'm ANDVCH (Arian Dave Checa) as goldenbiscuitt
 <a href="https://linkedin.com/in/adcheca"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A highly motivated problem-solver with over 7 years of experience providing in-depth technical support for diverse hardware and software issues. Demonstrated expertise in troubleshooting, collaboration, and consistently delivering innovative and effective solutions. This background has honed my analytical skills and passion for technology, fueling my transition into Cybersecurity.
+For seven years, He has been the go-to expert companies rely on to resolve their most complex technical challenges—the kind that stall operations and frustrate teams. His background goes beyond simply patching issues; he specializes in identifying the deep-seated root causes of hardware and software failures to deliver permanent, innovative solutions.
+
+Today, he applies that same rigorous, analytical framework to the Cybersecurity landscape. He holds a critical focus on the intersection of AI and security, specifically analyzing how attackers leverage Generative AI and Large Language Models, and building defenses that outpace them. He is dedicated to ensuring organizational defenses are as resilient as business operations demand.
 
 ## Roles
 
@@ -10,6 +12,7 @@ A highly motivated problem-solver with over 7 years of experience providing in-d
 - Full Stack Developer
 - Project Manager (2025)
 - Network and Systems Administrator (Current)
+- AI READY ASEAN Master Trainer (Current)
 
 ## Objective
 
