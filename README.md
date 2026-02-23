@@ -1,4 +1,4 @@
-# Hello, I'm ANDVCH (Arian Dave Checa) as goldenbiscuitt
+# Hi, I'm Arian, a network and systems engineer.
 <a href="https://linkedin.com/in/adcheca"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 For seven years, He has been the go-to expert companies rely on to resolve their most complex technical challenges—the kind that stall operations and frustrate teams. His background goes beyond simply patching issues; he specializes in identifying the deep-seated root causes of hardware and software failures to deliver permanent, innovative solutions.
@@ -29,8 +29,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Incident Response Planning and Execution      | SOC Automation Project|
 | Case Management with TheHive                  | SOC Automation Project|
 | Scripting and Automation for Threat Mitigation | SOC Automation Project|
-| Full Stack Development                        | Internal Map's Project | 
-| Project Management                            | Internal Map's Project | 
+| Full Stack Development                        | Internal Maps Project | 
+| Project Management                            | Internal Maps Project | 
 
 ## Tools
 ### Network
