@@ -1,9 +1,9 @@
 # Hi, I'm Arian, a network and systems administrator.
 <a href="https://linkedin.com/in/adcheca"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-For seven years, He has been the go-to expert companies rely on to resolve their most complex technical challenges—the kind that stall operations and frustrate teams. His background goes beyond simply patching issues; he specializes in identifying the deep-seated root causes of hardware and software failures to deliver permanent, innovative solutions.
+For seven years, I have been the go-to expert companies rely on to resolve their most complex technical challenges—the kind that stall operations and frustrate teams. My background goes beyond simply patching issues; I specialize in identifying the deep-seated root causes of hardware and software failures to deliver permanent, innovative solutions.
 
-Today, he applies that same rigorous, analytical framework to the Cybersecurity landscape. He holds a critical focus on the intersection of AI and security, specifically analyzing how attackers leverage Generative AI and Large Language Models, and building defenses that outpace them. He is dedicated to ensuring organizational defenses are as resilient as business operations demand.
+Today, I apply that same rigorous, analytical framework to the Cybersecurity landscape. I hold critical focus on the intersection of AI and security, specifically analyzing how attackers leverage Generative AI and Large Language Models, and building defenses that outpace them. I am dedicated to ensuring organizational defenses are as resilient as business operations demand.
 
 ## Roles
 
