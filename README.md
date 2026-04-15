@@ -56,13 +56,22 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Cybersecurity-white?style=for-the-badge&logo=Google&logoColor=red" />
-<img src="https://img.shields.io/badge/-Information%20Literacy-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/-Introduction%20to%20CIP-purple?style=for-the-badge&logo=opswat&logoColor=white" />
-<img src="https://img.shields.io/badge/-CC%20Domain%20Completion-99CC33?style=for-the-badge&logo=isc2&logoColor=white" />
+  <a href="https://www.coursera.org/account/accomplishments/verify/KUM9MPA9841S">
+    <img src="https://img.shields.io/badge/-Cybersecurity-white?style=for-the-badge&logo=Google&logoColor=red" />
+  </a>
+  <a href="YOUR_URL_HERE">
+    <img src="https://img.shields.io/badge/-Information%20Literacy-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_URL_HERE">
+    <img src="https://img.shields.io/badge/-Introduction%20to%20CIP-purple?style=for-the-badge&logo=opswat&logoColor=white" />
+  </a>
+  <a href="YOUR_URL_HERE">
+    <img src="https://img.shields.io/badge/-CC%20Domain%20Completion-99CC33?style=for-the-badge&logo=isc2&logoColor=white" />
+  </a>
 </div>
 
 ## Projects
 - Cybersecurity Home Lab
 - SOC Automation Lab
 - Internal Maps WebApp
+- Mastercard SOC Lab
