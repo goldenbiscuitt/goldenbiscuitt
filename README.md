@@ -1,4 +1,6 @@
-# Hi, I'm Arian, a network and systems administrator.
+# Hi, I'm Arian, The Human side of AI, I'm an AI Engineer, and a Cybersecurity and IT Specialist by profession. My main work is network and system administration, And My passion is to create emotional experiences at the intersection of art, design, and AI.
+
+
 <a href="https://linkedin.com/in/adcheca"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 For seven years, I have been the go-to expert companies rely on to resolve their most complex technical challenges—the kind that stall operations and frustrate teams. My background goes beyond simply patching issues; I specialize in identifying the deep-seated root causes of hardware and software failures to deliver permanent, innovative solutions.
@@ -13,6 +15,7 @@ Today, I apply that same rigorous, analytical framework to the Cybersecurity lan
 - Project Manager (2025)
 - Network and Systems Administrator (Current)
 - AI READY ASEAN Master Trainer (Current)
+- AI Engineer (Current)
 
 ## Objective
 
